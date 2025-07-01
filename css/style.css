@@ -145,10 +145,12 @@ a:focus {
   text-align: center;
 }
 
-.hero_content p {
+.hero_area p {
   text-align: justify;
-  font-size: 1.25rem;
-  margin-bottom: 30px;
+  font-weight: bold;
+  background-color: #ffffff;
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
 }
 
 .hero_content .btn {
@@ -170,6 +172,7 @@ a:focus {
   width: 800;
   height: 500;
   object-fit: cover;
+  border-radius: 1rem;
 }
 
 .owl-nav {
